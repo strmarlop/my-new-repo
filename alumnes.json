@@ -35,6 +35,12 @@
             "nom": "Míriam",
             "cognoms": "Estruga Sánchez",
             "nota": 6            
+        },
+        {
+            "id": 2,
+            "nom": "Marichocho",
+            "cognoms": "Castanyera Raventós",
+            "nota": 7
         }
     ]
 }
